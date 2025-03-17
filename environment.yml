@@ -1,0 +1,18 @@
+name: fiscalrag
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - camelot-py
+  - ghostscript
+  - pandas
+  - jupyterlab
+  - python-dotenv
+  - pip
+  - pip:
+    - PyPDF2
+    - llama-index
+    - ollama           # Apenas se usar modelos locais
+    - python-dotenv
+    - opencv-python

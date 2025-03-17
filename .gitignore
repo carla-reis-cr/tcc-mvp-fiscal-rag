@@ -1,0 +1,12 @@
+# Ignorar arquivos de configuração local
+.env
+REGEX_VALID.TXT
+data/processed/registros
+scripts/data/processed/registros
+data/pdfs
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
