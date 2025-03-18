@@ -6,6 +6,8 @@ dependencies:
   - python=3.9
   - camelot-py
   - ghostscript
+  - llama-index
+  - ollama-0.4.7
   - pandas
   - jupyterlab
   - python-dotenv
@@ -16,3 +18,7 @@ dependencies:
     - ollama           # Apenas se usar modelos locais
     - python-dotenv
     - opencv-python
+    - llama-index-embeddings-huggingface
+    - transformers
+    - sentence-transformers 
+    - torch
