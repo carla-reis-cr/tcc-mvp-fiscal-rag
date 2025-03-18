@@ -1,0 +1,22 @@
+{
+    "0200": [
+      {
+        "campo": "COD_ITEM",
+        "obrigatorio": true,
+        "formato": "\\d+",
+        "mensagem_erro": "COD_ITEM deve ser numérico e único."
+      },
+      {
+        "campo": "COD_NCM",
+        "obrigatorio": true,
+        "formato": "^\\d{4}\\.\\d{2}\\.\\d{2}$",
+        "mensagem_erro": "COD_NCM inválido. Formato correto: NNNN.NN.NN."
+      },
+      {
+        "campo": "UNID_INV",
+        "obrigatorio": true,
+        "valores_permitidos": ["UN", "KG", "LT"],
+        "mensagem_erro": "UNID_INV deve ser UN, KG ou LT."
+      }
+    ]
+  }

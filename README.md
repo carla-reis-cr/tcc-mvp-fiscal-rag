@@ -1,11 +1,11 @@
-# FiscalRAG 🧾🔍
+# AuditaFiscal RAG 🧾🔍
 
 **Sistema Inteligente de Validação Fiscal com RAG**  
 *Combine regras tributárias com IA generativa para validação fiscal explicável*
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/fiscalrag/blob/main/notebooks/fiscalrag_mvp.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/carla-reis-cr/tcc-mvp-fiscal-rag/blob/main/notebooks/fiscalrag_mvp.ipynb)
 
 ![Fluxo do FiscalRAG](https://via.placeholder.com/800x400.png?text=Fluxo+do+FiscalRAG+-+Extração+de+Regras+→+Validação+→+Explicação+com+RAG)
 

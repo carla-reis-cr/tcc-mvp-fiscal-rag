@@ -1,6 +1,6 @@
 # Ignorar arquivos de configuração local
 .env
-REGEX_VALID.TXT
+erros.txt
 data/processed/registros
 scripts/data/processed/registros
 data/pdfs
